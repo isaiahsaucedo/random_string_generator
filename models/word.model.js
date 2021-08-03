@@ -1,4 +1,4 @@
-// Project: Memorstring 
+// Random String Generator
 // Author @isaiahsaucedo
 
 const mongoose = require('mongoose')
